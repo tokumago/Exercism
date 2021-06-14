@@ -21,7 +21,7 @@ public static class Hamming
     }
 
     //public static int Distance(string firstStrand, string secondStrand) {
-    //    if (firstStrand.Length != secondStrand.Length) throw new ArgumentException("YOU STUPID!");
+    //    if (firstStrand.Length != secondStrand.Length) throw new ArgumentException();
     //    return firstStrand.Zip(secondStrand, (s1, s2) => s1 == s2 ? 0 : 1).Sum();
     //}
 
